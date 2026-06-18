@@ -1,1 +1,8 @@
-El uso responsable de la información en internet y la participación ciudadana comparten con Git la necesidad de trazabilidad, consenso y cuidado colectivo. Verificar fuentes antes de compartir es análogo a revisar el historial de cambios antes de integrar código: ambos evitan propagar errores. La participación virtual exige diálogo respetuoso y construcción conjunta, igual que Git fomenta la colaboración mediante revisiones y aportes documentados. Proteger datos personales en redes tiene su paralelo en no exponer claves o credenciales en repositorios públicos. En los tres ámbitos, la transparencia y la rendición de cuentas fortalecen la confianza. El respeto hacia los demás usuarios se refleja en el respeto hacia los colaboradores de un proyecto. Finalmente, tanto en la vida digital como en el código, las decisiones individuales impactan al conjunto, por lo que la responsabilidad es siempre compartida.
+El uso responsable de la información en internet y la participación ciudadana comparten con Git la necesidad de trazabilidad, 
+consenso y cuidado colectivo. Verificar fuentes antes de compartir es análogo a revisar el historial de cambios antes de integrar código: 
+ambos evitan propagar errores. La participación virtual exige diálogo respetuoso y construcción conjunta, 
+igual que Git fomenta la colaboración mediante revisiones y aportes documentados. 
+Proteger datos personales en redes tiene su paralelo en no exponer claves o credenciales en repositorios públicos. 
+En los tres ámbitos, la transparencia y la rendición de cuentas fortalecen la confianza. 
+El respeto hacia los demás usuarios se refleja en el respeto hacia los colaboradores de un proyecto. 
+Finalmente, tanto en la vida digital como en el código, las decisiones individuales impactan al conjunto, por lo que la responsabilidad es siempre compartida.
