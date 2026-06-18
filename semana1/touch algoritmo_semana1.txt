@@ -1,0 +1,9 @@
+Algoritmo para compartir información confiable en internet
+
+1. Formular la pregunta con claridad
+2. Acudir a dominios autorizados (.gov, .edu, .org) y direcciones seguras (https//)
+3. Verificar la autoridad de quien publica la información
+4. Cotejar el tema de la busqueda en otras fuentes
+5. Revisar la fecha de publicación
+6. Evaluar el lenguaje y la bilbiografía del documento
+7. Una vez la información sea verídica y confiable, compartirla.
