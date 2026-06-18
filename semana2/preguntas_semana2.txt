@@ -1,12 +1,11 @@
-Saber usar la terminal es fundamental para un desarrollador porque permite navegar y organizar
-archivos de manera ágil y sin las limitaciones de las interfaces gráficas.
-La terminal ofrece velocidad y precisión al ejecutar comandos como mover, copiar, renombrar o eliminar
-archivos, tareas que serían tediosas con el ratón. Además, es la puerta de entrada a herramientas esenciales
-como Git, gestores de paquetes y entornos virtuales, que operan casi exclusivamente por línea de comandos.
-La terminal facilita la automatización de tareas repetitivas mediante scripts, ahorrando tiempo y reduciendo
-errores humanos. También permite inspeccionar y depurar sistemas en entornos remotos (servidores o contenedores)
-donde no hay interfaz gráfica disponible. Su uso constante desarrolla una comprensión más profunda de la
-estructura de archivos, permisos y procesos del sistema operativo.
-En proyectos colaborativos, la terminal unifica el flujo de trabajo porque los comandos son independientes
-del sistema operativo y documentables fácilmente. Por último, trabajar con la terminal te prepara para
-entornos de producción, donde el acceso suele ser exclusivamente por consola.
+pregunta 1: ¿Cuál es la función principal de la terminal en un sistema operativo?
+respuesta:  Ejecutar comandos para interactuar con el sistema
+
+pregunta 2: ¿Qué hace el comando pwd?
+respuesta: Muestra la ubicación actual dentro del sistema de carpetas
+
+pregunta 3: ¿Cuál comando permite ver los archivos y carpetas dentro del directorio actual?
+respuesta: el comando ls
+
+pregunta 4: ¿Cuál comando permite crear una carpeta nueva desde la terminal?
+respuesta: el comando mkdir
