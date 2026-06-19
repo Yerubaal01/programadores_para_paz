@@ -1,0 +1,10 @@
+Es importante porque Git permite mantener un historial completo y detallado de cada modificación realizada en el proyecto, 
+lo que facilita saber exactamente qué cambió, quién lo hizo y por qué, mejorando la corrección de errores y la colaboración en equipo. 
+Además, si algo sale mal, se puede retroceder a una versión anterior sin perder todo el trabajo, y con las ramas se puede experimentar 
+o desarrollar nuevas funcionalidades sin afectar el código principal. Sin un registro de cambios, el trabajo en equipo sería caótico 
+porque no se sabría quién tocó cada archivo ni cuándo, y cualquier error podría ser desastroso. 
+Adicionalmente, el registro de cambios funciona como una bitácora que documenta la evolución del proyecto, 
+lo que resulta útil para entender decisiones pasadas, incorporar nuevos miembros al equipo o incluso auditar el código en caso 
+de problemas de seguridad. También permite trabajar en paralelo con múltiples desarrolladores, ya que cada uno puede hacer sus 
+commits y luego fusionarlos de manera ordenada, resolviendo conflictos de forma controlada. 
+En definitiva, Git no solo guarda el código, sino que protege el trabajo del equipo y da trazabilidad a todo el proceso de desarrollo.
