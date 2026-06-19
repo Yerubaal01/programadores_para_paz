@@ -1,0 +1,9 @@
+Es importante que las comunidades o iniciativas ciudadanas construyan herramientas tecnológicas propias con tecnologías abiertas como 
+Node.js porque esto les otorga autonomía y soberanía tecnológica, reduciendo la dependencia de plataformas privadas que imponen sus reglas. 
+Node.js, al ser de código abierto y contar con un ecosistema extenso de librerías, permite desarrollar soluciones rápidas, escalables y 
+adaptadas a necesidades reales sin costos de licenciamiento. Además, la transparencia del código abierto facilita la auditoría y confianza 
+comunitaria, ya que cualquier persona puede revisar cómo se manejan los datos y qué lógica interna opera. 
+El uso de JavaScript en frontend y backend unifica el desarrollo, lo que reduce barreras de entrada para equipos con perfiles diversos. 
+Las comunidades pueden iterar y evolucionar sus herramientas según cambien sus necesidades, sin esperar actualizaciones de terceros. 
+Esto fomenta la apropiación tecnológica, empoderando a las personas para que sean creadoras y no solo consumidoras de tecnología. 
+También promueve la colaboración abierta, donde otras comunidades pueden adoptar, mejorar o adaptar las soluciones desarrolladas.
