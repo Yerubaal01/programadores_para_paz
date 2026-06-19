@@ -1,0 +1,15 @@
+Este pedazo de código:
+
+"app.post('/reporte', (req, res) => {
+    const mensaje = req.body.mensaje;
+    res.json({
+      estado: "Reporte recibido",
+      mensaje: mensaje
+    });
+  });" 
+
+define una ruta en un servidor web que escucha solicitudes POST enviadas a la URL "/reporte".
+Es por eso que al ejecutar la ruta http://localhost:3000/reporte en el navegador, él hace un GET, 
+y como no hay una ruta definida para app.get('/reporte'), el servidor devuelve el mensaje de error: "Cannot GET /reporte".
+Esto sucede porque el navegador por defecto hace una solicitud GET, no POST. Aunque se puede probar la ruta a través de un
+JSON con Postman.

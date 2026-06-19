@@ -1,0 +1,11 @@
+Las APIs permiten que las comunidades compartan información, reportes o alertas de manera organizada al actuar como puentes 
+estandarizados entre diferentes sistemas, dispositivos y aplicaciones. Gracias a su capacidad para estructurar los datos en 
+formatos como JSON, cada reporte llega con campos claros evitando información desordenada o ambigua. 
+Las APIs permiten diferenciar entre consultar y registrar, asegurando que cualquier persona pueda ver la información pública, 
+pero solo usuarios autorizados puedan crear o modificar reportes, lo que mantiene el orden y la confiabilidad. 
+Además, al centralizar la recepción de datos a través de una API, la comunidad puede unificar alertas provenientes de 
+múltiples fuentes en un solo repositorio organizado. Esto facilita la visualización en mapas, tablas o gráficos en tiempo 
+real, haciendo que la información sea comprensible para toda la comunidad. Las APIs también permiten automatizar validaciones, 
+como verificar que una alerta no sea duplicada o que los datos obligatorios estén completos antes de registrarla. La organización 
+que aportan las APIs reduce la desinformación y los errores, porque la lógica de la solución depende de cómo organiza lo que 
+recibe y lo que devuelve.

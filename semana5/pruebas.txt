@@ -1,0 +1,5 @@
+En la ruta http://localhost:3000: se muestra el mensaje "Servidor activo"
+En la ruta http://localhost:3000/saludo: se muestra el mensaje "Hola comunidad"
+En la ruta http://localhost:3000/mensaje/juan: se muestra el mensaje "Hola Juan"
+
+Todas son respuestas configuradas en los getters de las rutas dentro del archivo server.js
