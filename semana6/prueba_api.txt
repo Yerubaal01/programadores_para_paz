@@ -1,0 +1,15 @@
+Al probar el servidor en postman: seleccionando POST e ingradando la URL http://localhost:3000/registro
+con el JSON:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+Se realiza en envío de la petición y como respuesta el servidor devuelve:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+Lo que quiere decir que el servidor recibió el POST que se envió desde postman, estrajo los datos
+del cuerpo: nombre:"Maria" y mensaje:"Hola comunidad" y respondió con un JSON modificado, confirmando
+que los datos llegaron correctamente

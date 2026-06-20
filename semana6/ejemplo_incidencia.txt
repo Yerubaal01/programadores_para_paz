@@ -1,0 +1,11 @@
+{
+  "tipo": "Orden Público",
+  "descripcion": "La comunidad reporta que una institución de educación superior inició el bloqueo de una de las vías principales del barrio"
+}
+
+La respuesta del servidor fue:
+{
+    "mensaje": "Incidencia registrada",
+    "tipo": "Orden Público",
+    "descripcion": "La comunidad reporta que una institución de educación superior inició el bloqueo de una de las vías principales del barrio"
+}

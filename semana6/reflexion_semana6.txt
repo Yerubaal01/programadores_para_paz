@@ -1,0 +1,11 @@
+Es importante que las plataformas tecnológicas reciban reportes ciudadanos de forma estructurada porque 
+la información desordenada se pierde o se malinterpreta, mientras que los datos organizados permiten respuestas 
+rápidas y precisas. Cuando los reportes llegan con campos definidos (tipo de problema, ubicación, descripción, fecha),
+las autoridades pueden priorizar, clasificar y derivar cada caso sin perder tiempo en interpretar mensajes ambiguos. 
+La estructura también facilita la automatización: sistemas de alerta temprana, mapas de incidentes o paneles de monitoreo 
+funcionan porque los datos siguen un formato consistente. Además, los reportes estructurados permiten análisis históricos 
+y estadísticos, identificando patrones como zonas con más incidencias o momentos de mayor actividad ciudadana. Esto 
+convierte la participación ciudadana en información útil para la toma de decisiones, no solo en quejas aisladas. La 
+estructura también protege a quienes reportan, porque los sistemas pueden anonimizar datos sensibles automáticamente si 
+el formato lo permite. Una plataforma que recibe información desordenada termina generando ruido, desconfianza y 
+frustración tanto en la ciudadanía como en quienes deben atender los reportes.
