@@ -1,0 +1,18 @@
+Al probar el servidor en postman: seleccionando POST e ingradando la URL http://localhost:3000/reportes
+con el JSON:
+{
+  "tipo": "Orden Público",
+  "descripcion": "La comunidad reporta que una institución de educación superior inició el bloqueo de una 
+  de las vías principales del barrio"
+}
+Se realiza en envío de la petición y como respuesta el servidor devuelve:
+[
+    {
+        "id":1,
+        "tipo":"Orden Público",
+        "descripcion":"La comunidad reporta que una institución de educación superior inició el bloqueo de 
+        una de las vías principales del barrio"
+    }
+]
+Lo que quiere decir que el servidor recibió el POST que se envió desde postman, estrajo los datos del cuerpo: 
+"tipo" y "descripcion" y mostró el POST con un JSON modificado, confirmando que los datos llegaron correctamente

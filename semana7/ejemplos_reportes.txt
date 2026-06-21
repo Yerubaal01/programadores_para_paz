@@ -1,0 +1,12 @@
+Ejemplo 1:
+{
+  "tipo": "Orden Público",
+  "descripcion": "La comunidad reporta que una institución de educación superior inició el bloqueo de una 
+  de las vías principales del barrio"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Convivencia",
+  "descripcion": "Exceso de volumen en reuniones y celebraciones dentro de una zona residencial"
+}

@@ -1,0 +1,10 @@
+Es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica porque 
+la información documentada y accesible transforma la participación ciudadana en acción efectiva. Registrar permite dar 
+visibilidad a problemas que de otro modo quedarían en el plano de lo anecdótico, mientras que consultar facilita el 
+seguimiento y la trazabilidad, evitando que los casos se pierdan o dupliquen. Una plataforma centraliza los reportes, lo 
+que permite identificar patrones (zonas más afectadas, tipos de incidencia recurrentes) y priorizar recursos de manera 
+informada. Además, la consulta pública fortalece la transparencia, porque cualquier persona puede verificar si las 
+autoridades han respondido o no a los reportes. Esto genera confianza en el sistema y motiva a más ciudadanos a participar. 
+La posibilidad de consultar también evita la desinformación, porque la comunidad accede a datos verificados y actualizados, 
+no a rumores. Registrar y consultar convierten la participación en un ciclo virtuoso: se reporta, se da seguimiento, 
+se aprende y se mejora.
