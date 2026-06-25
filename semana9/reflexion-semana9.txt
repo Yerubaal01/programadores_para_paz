@@ -1,0 +1,8 @@
+La estabilidad y seguridad de una plataforma comunitaria en el servidor son fundamentales 
+porque garantizan la confianza y la participación activa de los usuarios. Si el sistema falla 
+constantemente o es vulnerable, las personas pierden sus datos, ven interrumpidos sus procesos 
+y terminan abandonando la plataforma. Además, un servidor inseguro puede ser víctima de ataques 
+que manipulen resultados, roben información personal o paralicen el servicio, dañando 
+gravemente la reputación de la comunidad. Por eso, mantener el servidor estable no es solo un 
+tema técnico, sino una condición necesaria para que la colaboración y la democracia digital se
+florezcan sin riesgos.
