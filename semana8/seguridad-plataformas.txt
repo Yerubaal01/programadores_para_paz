@@ -1,0 +1,5 @@
+1. Autenticación y verificación de identidad
+2. Control de permisos y roles
+3. Moderación y filtro de contenido
+4. Privacidad de datos personales
+5. Respuestas a incidentes

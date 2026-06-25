@@ -1,0 +1,8 @@
+La seguridad digital es el pilar que garantiza que una plataforma comunitaria no colapse ante la primera amenaza. 
+En estos espacios, donde la interacción y la confianza son el combustible, una brecha de seguridad no solo expone 
+datos sensibles como correos o mensajes privados, sino que también rompe el vínculo de credibilidad con los usuarios. 
+Si un participante siente que su información está en riesgo o que el sistema es manipulable, simplemente deja de 
+aportar, destruyendo el propósito colaborativo de la comunidad. Además, plataformas participativas suelen albergar 
+debates o decisiones colectivas; un atacante que tome cuentas de administradores podría alterar votaciones, censurar 
+opiniones o sembrar desinformación. La seguridad activa actúa como un blindaje que preserva la integridad de los 
+procesos, asegurando que cada voto, comentario o propuesta sea genuino y verificable. 
