@@ -1,0 +1,29 @@
+Entidad: Reporte
+
+Campos principales:
+id (identificador único)
+titulo (resumen del reporte)
+descripcion (detalle del problema o situación)
+ubicacion (barrio, sector o coordenadas)
+fecha_hora (momento en que ocurrió el hecho)
+estado (pendiente, en revisión, resuelto, descartado)
+tipo (infraestructura, seguridad, ambiental, social, etc.)
+
+Propósito:
+Almacenar las incidencias o situaciones reportadas por la ciudadanía, permitiendo su 
+clasificación, seguimiento y análisis estadístico para la toma de decisiones.
+
+Entidad: Seguimiento
+
+Campos principales:
+id (identificador único)
+reporte_id (referencia al reporte asociado)
+fecha (fecha del seguimiento)
+descripcion (acción realizada o comentario)
+responsable (usuario o rol que realizó el seguimiento)
+estado_nuevo (actualización del estado del reporte)
+
+Propósito:
+Registrar el historial de acciones, comentarios y cambios de estado de cada reporte, 
+garantizando la trazabilidad del proceso y permitiendo que cualquier persona pueda 
+consultar qué se ha hecho frente a una incidencia.

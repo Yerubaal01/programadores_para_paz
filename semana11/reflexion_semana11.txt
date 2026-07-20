@@ -1,0 +1,15 @@
+Una plataforma tecnológica que promueve participación ciudadana debe tener base de 
+datos, autenticación de usuarios y protección de información porque sin estos elementos, 
+la participación se vuelve frágil, poco confiable y riesgosa. La base de datos permite 
+organizar y dar seguimiento a reportes, apoyos y decisiones, convirtiendo la 
+participación ciudadana en evidencia utilizable y trazable, no solo en opiniones 
+volátiles. La autenticación garantiza que cada acción quede vinculada a una persona 
+identificable, lo que previene la suplantación, el spam y la manipulación por cuentas 
+falsas o bots. Sin autenticación, no hay forma de distinguir una participación genuina 
+de un ataque coordinado, lo que deslegitima todo el proceso. La protección de información, 
+por su parte, es un derecho y una obligación: los datos personales de quienes participan 
+(nombres, ubicaciones, contactos) no pueden quedar expuestos, porque eso los pondría en 
+riesgo de acoso, estafa o represalias. Además, una plataforma que no protege los datos 
+pierde la confianza de la comunidad, y sin confianza, la participación se desploma. Estos 
+tres componentes trabajan juntos: la base de datos da estructura, la autenticación da 
+identidad y la protección da seguridad.

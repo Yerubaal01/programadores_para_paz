@@ -1,0 +1,6 @@
+La plataforma muestra un listado de causas en tarjetas, cada una con título, descripción 
+breve, contador de apoyos y un botón "Apoyar" (solo para usuarios autenticados). En la 
+parte superior hay un formulario para crear una causa con campos: título, descripción, 
+categoría y ubicación. Al apoyar, el contador se actualiza en tiempo real y el botón 
+cambia a "Ya apoyaste". Se incluyen filtros por categoría y ordenamiento por fecha o 
+apoyos para facilitar la navegación.
