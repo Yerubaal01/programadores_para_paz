@@ -1,0 +1,24 @@
+Evento: Se registra un nuevo reporte en la plataforma comunitaria.
+
+Acción: El webhook de n8n recibe los datos del nuevo reporte y activa un nodo 
+que envía un mensaje a través del bot de Telegram.
+
+Mensaje:
+
+"Nuevo reporte ciudadano
+
+Tipo: [tipo de incidencia]
+Zona: [barrio o sector]
+Fecha: [fecha y hora]
+ID del caso: [número de seguimiento]
+
+Revisar en la plataforma para más detalles."
+
+Información que NO debe enviarse:
+
+Nombres completos de quienes reportan o son mencionados.
+Documentos de identidad (cédula, pasaporte).
+Direcciones exactas (números de casa, calles específicas).
+Números de teléfono o correos electrónicos personales.
+Claves, contraseñas o tokens de acceso.
+Datos sensibles de terceros no involucrados en el reporte.

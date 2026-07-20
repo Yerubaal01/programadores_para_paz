@@ -1,0 +1,15 @@
+1. Como ciudadano, quiero registrar una incidencia con ubicación y descripción para dejar evidencia
+ del caso y permitir su seguimiento.
+
+2. Como veedor, quiero recibir una notificación automática cuando se registre un nuevo reporte en 
+mi zona para poder actuar rápidamente.
+
+3. Como administrador, quiero asignar responsables a cada reporte para garantizar que ningún caso 
+quede sin atención.
+
+4. Como miembro de la comunidad, quiero consultar el historial de reportes y su estado actual para 
+saber qué se ha hecho y evitar duplicar esfuerzos.
+
+5. Como coordinador, quiero generar reportes estadísticos mensuales (tipos de incidencia, tiempos 
+de respuesta, zonas más afectadas) para evaluar el impacto de la veeduría y planificar acciones 
+futuras.

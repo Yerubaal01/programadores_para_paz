@@ -1,0 +1,17 @@
+¿Qué 2 tareas del backlog harías primero?
+
+* Implementar el registro de incidencias con ubicación y descripción.
+Configurar notificaciones automáticas para veedores cuando se cree un reporte nuevo.
+
+¿Por qué son las más importantes?
+
+* Porque son el núcleo funcional de la plataforma: sin registro no hay participación 
+ciudadana, y sin notificaciones no hay respuesta oportuna. Ambas son la base sobre la
+que se sostienen el seguimiento, la transparencia y la confianza comunitaria.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+
+* Cumple con los criterios de aceptación definidos en la historia de usuario.
+* Fue probada en un entorno similar al de producción y no presenta errores críticos.
+* El código está documentado y fusionado en la rama principal del repositorio (Git) con 
+su respectivo registro de cambios.
