@@ -1,0 +1,17 @@
+Las metodologías ágiles, la automatización y canales como Telegram pueden ayudar a 
+organizar mejor una comunidad o proceso de participación ciudadana porque permiten 
+adaptarse rápidamente a cambios y necesidades emergentes sin perder el rumbo. Las 
+metodologías ágiles facilitan el trabajo en ciclos cortos, donde el equipo revisa 
+avances, ajusta prioridades y entrega valor de manera constante, evitando que los 
+procesos se vuelvan rígidos o burocráticos. La automatización libera tiempo humano 
+al encargarse de tareas repetitivas, como enviar recordatorios, generar reportes o 
+notificar nuevos reportes, permitiendo que el equipo se concentre en el análisis, 
+la comunicación y la toma de decisiones. Canales como Telegram ofrecen una 
+comunicación instantánea, de bajo costo y accesible desde cualquier dispositivo, 
+ideal para comunidades con recursos limitados, y además permiten la integración con 
+bots para enviar alertas automáticas o consultar información sin necesidad de 
+acceder a una plataforma web. La combinación de estos elementos permite que la 
+comunidad responda con agilidad a incidentes, mantenga informados a sus miembros y 
+documente cada paso del proceso. También ayudan a democratizar la participación, 
+porque reducir la fricción técnica (menos clics, menos pasos, más inmediatez) 
+facilita que más personas se involucren. 
