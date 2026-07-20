@@ -1,0 +1,15 @@
+Evento: Se registra una nueva causa en la plataforma.
+Mensaje:
+"Nueva causa creada en la plataforma
+Título: [título de la causa]
+Categoría: [categoría seleccionada]
+Ubicación: [barrio o sector]
+Fecha: [fecha de creación]
+Revisar en: [enlace a la causa en la plataforma]"
+Información que NO debe enviarse: 
+Nombres completos de quienes crean o apoyan la causa.
+Documentos de identidad (cédula, pasaporte, etc.).
+Direcciones exactas (números de casa, calles completas).
+Números de teléfono o correos electrónicos personales.
+Comentarios internos o sensibles que puedan identificar a personas.
+Datos que permitan localizar o vulnerar la privacidad de los firmantes.

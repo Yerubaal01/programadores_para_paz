@@ -1,0 +1,17 @@
+Entidad: Causa
+id: identificador único de la causa.
+titulo: nombre breve y descriptivo de la petición.
+descripcion: detalle del problema o solicitud.
+fecha: momento en que se creó la causa.
+Propósito: Almacenar las peticiones ciudadanas que se publican en la plataforma, 
+permitiendo su consulta, seguimiento y gestión.
+
+Entidad: Apoyo
+id: identificador único del apoyo.
+causa_id: referencia a la causa apoyada (clave foránea).
+nombre: nombre de la persona que apoya (puede ser alias si se anonimiza).
+fecha: momento en que se registró el apoyo.
+Propósito: Registrar los respaldos que recibe cada causa, permitiendo contar apoyos,
+evitar duplicados y generar el listado de firmantes para el documento final de la 
+petición.
+

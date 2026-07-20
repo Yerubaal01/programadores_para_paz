@@ -1,0 +1,18 @@
+Durante el curso aprendí que la tecnología es una herramienta poderosa, pero no 
+es un fin en sí misma: su valor real está en cómo se integra con procesos 
+organizativos, necesidades concretas y dinámicas comunitarias. Comprendí que una 
+plataforma digital no reemplaza la confianza ni el tejido social, sino que puede 
+amplificarlos si está diseñada con enfoque participativo y accesible. Aprendí 
+que detrás de cada dato hay personas, y que la protección de la privacidad, la 
+claridad en la comunicación y la trazabilidad de la información son tan 
+importantes como las funcionalidades técnicas. También entendí que la 
+participación ciudadana no se activa solo con interfaz, sino que requiere 
+acompañamiento, difusión y canales de seguimiento que mantengan a las personas 
+informadas sobre el impacto de sus acciones. El curso me mostró que herramientas 
+como bases de datos, APIs y automatizaciones pueden ordenar el trabajo 
+comunitario, pero solo si se usan con criterio ético y responsabilidad. Aprendí 
+que la brecha digital no es solo de acceso, sino también de comprensión, y que 
+diseñar para la participación implica priorizar la sencillez sobre la complejidad 
+técnica. Finalmente, entendí que construir tecnología con impacto social es un 
+acto político: implica decidir quién participa, cómo se toman las decisiones y 
+qué información se protege, siempre desde el respeto por la dignidad humana.

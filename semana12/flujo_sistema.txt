@@ -1,0 +1,13 @@
+1. El ciudadano accede a la plataforma y se autentica mediante usuario y contraseña, o 
+con su cuenta de correo electrónico.
+2. Crea una petición llenando un formulario simple con: título, descripción del problema,
+beneficiarios y destinatario. En 3 clics redacta, revisa y publica la petición.
+3. La petición se registra en la base de datos con un identificador único, fecha, estado 
+y un enlace público para compartir en redes o por WhatsApp.
+4. Los ciudadanos apoyan la petición con un solo clic. El sistema evita apoyos duplicados 
+y muestra el contador de apoyos en tiempo real.
+5. Al alcanzar el umbral mínimo de apoyos, el sistema genera automáticamente un documento 
+PDF con la petición, los nombres de quienes apoyaron y el número total de respaldos.
+6. El PDF se envía por correo electrónico a la entidad destinataria y queda disponible 
+para descarga en la plataforma, junto con un número de radicado para hacer seguimiento. 
+El sistema notifica a los firmantes que la petición fue entregada.
